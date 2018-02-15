@@ -8,4 +8,4 @@ Noise generation and lines will follow the position of the mouse. Press left cli
 ## Project // 3 Growing 3D Sphere
 ![Sketch2](Images/Sketch3a.png)
 ![Sketch2](Images/Sketch3b.png)
-Generation of a 3D sphere while moving the mouse from left to right. Several ellipses grow in the background. Press right click, the sphere changes its color.
+Generation of a 3D sphere while moving the mouse from left to right. Several ellipses grow in the background. Press left click, the sphere changes its color.
